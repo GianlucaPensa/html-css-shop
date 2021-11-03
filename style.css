@@ -1,0 +1,22 @@
+.row > div{
+    position: relative;
+    display: inline-block;
+    margin: 5px;
+    width: 300px;
+    height: 372px;
+}
+
+.green{
+    position: absolute;
+    background-color: green;
+    top: 0;
+    right: 0;
+}
+
+.red{
+    position: absolute;
+    background-color: red;
+    top: 0;
+    right: 0;
+}
+
