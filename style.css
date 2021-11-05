@@ -30,20 +30,9 @@
     z-index: 1;
 }
 
-.row > div:first-child:hover .hidden{
+.show:hover .hidden{
     display: inline-block;
     color: red;
     cursor: pointer;
 }
 
-.row > div:nth-child(2):hover .hidden{
-    display: inline-block;
-    color: red;
-    cursor: pointer;
-}
-
-.row > div:last-child:hover .hidden{
-    display: inline-block;
-    color: red;
-    cursor: pointer;
-}
